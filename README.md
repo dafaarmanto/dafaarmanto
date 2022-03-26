@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**dafaarmanto/dafaarmanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=dafaarmanto&show_icons=true)
 
-Here are some ideas to get you started:
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dafaarmanto&theme=blue-green)
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
