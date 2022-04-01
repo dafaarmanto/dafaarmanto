@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋, I'm Dafa Armanto</h3>
 <h4 align="left">Learning enthusiast. Studying Software Engineering @ Universitas Raharja</h4>
 
-- 🌱 I’m currently learning **Javascript Frameworks**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **mrandikadafa@gmail.com**
 
