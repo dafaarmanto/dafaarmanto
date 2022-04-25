@@ -7,7 +7,7 @@ Software Engineer Student @ Universitas Raharja
 I've been learning to code for 3 years, started from HTML CSS and then starting to mastering Javascript (and Frameworks). I also can do backend using NodeJS, PHP, Python and Go.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [Dribbble](http://dribbble.com/dafaarmanto)
+* 🖥️  I also do some UI Design, see my portfolio at [Dribbble](http://dribbble.com/dafaarmanto)
 * ✉️  You can contact me at [mrandikadafa@gmail.com](mailto:mrandikadafa@gmail.com)
 * 🧠  I'm learning React, Next, and TypeScript
 * 🤝  I'm open to collaborating on Interesting projects
