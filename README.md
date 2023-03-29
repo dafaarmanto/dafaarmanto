@@ -50,13 +50,7 @@ I've been learning to code for 3 years, started from HTML CSS and then starting 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dafaarmanto"><img src="https://github-readme-stats.vercel.app/api?username=dafaarmanto&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="dafaarmanto's GitHub stats" /></a>
-
 <a href="http://www.github.com/dafaarmanto"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dafaarmanto&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/dafaarmanto"><img src="https://activity-graph.herokuapp.com/graph?username=dafaarmanto&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/dafaarmanto" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafaarmanto&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
