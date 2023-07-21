@@ -12,6 +12,7 @@ I've been learning to code for 3 years, started from HTML CSS and then starting 
 * 🧠  I'm learning React, Next, and TypeScript
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I love listening to music, watching movies, reading books and of course coding!
+* Also visit my portfolio website (Still in development): https://my-portfolio-cyan-nine.vercel.app/
 
 ### Skills
 
