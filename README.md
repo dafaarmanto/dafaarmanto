@@ -4,7 +4,7 @@ Hi 👋 My name is Dafa Armanto
 Software Engineer Student @ Universitas Raharja
 -----------------------------------------------
 
-I've been learning to code for 3 years, started from HTML CSS and then starting to mastering Javascript (and Frameworks). I also can do backend using NodeJS, PHP, Python and Go.
+I've been learning to code for 3 years, started from HTML CSS and then starting to mastering Javascript (and Frameworks). I also can do backend using NodeJS, and PHP (Laravel).
 
 * 🌍  I'm based in Indonesia
 * 🖥️  I also do some UI Design, see my portfolio at [Dribbble](http://dribbble.com/dafaarmanto)
